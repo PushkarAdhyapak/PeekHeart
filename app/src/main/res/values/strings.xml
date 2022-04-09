@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Peek Heart</string>
+    <string name="Welcome">Welcome XYZ Person</string>
+    <string name ="History">Click to view Full History</string>
+    <string name ="Age">Age :52</string>
+    <string name ="Weight">Weight</string>
+    <string name ="PulseRate">PulseRate</string>
+    <string name ="Gender">Gender</string>
+
+
+
+</resources>
